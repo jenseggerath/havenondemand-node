@@ -1,3 +1,5 @@
+**Note:** this library is depreciated. All future work will be done [here](https://www.npmjs.com/package/havenondemand).
+
 # Node JS client library for IDOL OnDemand
 Basic library to help with calling IDOL OnDemand APIs [http://idolondemand.com](http://idolondemand.com).
 
